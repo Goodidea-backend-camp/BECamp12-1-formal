@@ -82,8 +82,7 @@ they ask you to calculate the growth (or maybe decrease) of the expenses between
 But they are too diligent to pay you salary,
 so you must do the job for them for free. QQ
 
-Given a integer T, represent the time they want to calculate the growth.
-For next T lines, given you 2 integers, indicate the expense of two months.
+Given you 2 integers, indicate the expense of two months.
 Calculate the growth rate of the expenses.
 
 If the growth is >= 5%, then output "(#`Д´)ﾉ" (without quotes) after the growth,
